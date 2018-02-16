@@ -36,3 +36,6 @@ The program should not prompt the user for the two dates. Simply accept the date
 Don’t forget the Class Policy rules, including using const.  
 
 Zero fill your dates to meet ISO format specification on the output. (see std::setfill manipulator).  
+
+Note: Try https://www.jetbrains.com/shop/eform/students to help find problems with your code. 
+
