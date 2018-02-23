@@ -6,9 +6,9 @@ Class ID:  Fearow
 
 SRS ID: CST116SRS05  
 
-Unresolved Issues:  
+Unresolved Issues: If the user inputs extra leading zeros in the date input, they are ignored.
 
-Notes:  
+Notes:  Compiled with Visual Studio 2017 on Windows 10.
 
 
 ---
